@@ -45,7 +45,7 @@ function color(hexBase) {
     }
 }
 
-const background = "#17132D"
+const background = "#20223A"
 
 const _ = new color(background)
 
@@ -58,11 +58,11 @@ const common = {
 
 const syntax = {
     tag: _("#5CCFE6"),
-    func: _("#F2BC30"),
+    func: _("#EEBE44"),
     entity: _("#73D0FF"),
     string: _("#67C988"),
     regexp: _("#95E6CB"),
-    markup: _("#B4E258"),
+    markup: _("#AA7CE3"),
     keyword: _("#F6754F"),
     special: _("#FFE6B3"),
     comment: _("#5C6773"),
