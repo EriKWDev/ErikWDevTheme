@@ -1,0 +1,24 @@
+{
+    "name": "erikwdevtheme",
+    "displayName": "ErikWDevTheme",
+    "description": "ErikWDev's syntax theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ErikWDevTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ErikWDevTheme-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "chroma-js": "^2.1.0"
+    }
+}
