@@ -115,7 +115,7 @@ const TERMINAL_COLORS = {
     }
 }
 
-const BORDERED = true
+const BORDERED = false
 const VARIANT = "dark"
 
 function getTheme() {
