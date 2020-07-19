@@ -1,5 +1,8 @@
 {
     "name": "erikwdevtheme",
+    "author": "EriKWDev",
+    "license": "MIT",
+    "publisher": "EriKWDev",
     "displayName": "ErikWDevTheme",
     "description": "ErikWDev's syntax theme",
     "version": "0.0.1",
