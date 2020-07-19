@@ -5,4 +5,4 @@ Do you like the formatting? Don't thank me. This theme is based on the amazing "
 ## Here is a sample of some python code
 Checkout https://github.com/Canvim/PyPen for an interesting python project!
 
-![Example Image of the Theme in use (python)](https://i.imgur.com/JuDqlRZ.png)
+![Example Image of the Theme in use (python)](https://i.imgur.com/ev8ShJh.png)
