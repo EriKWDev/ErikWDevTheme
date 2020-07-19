@@ -5,7 +5,11 @@
     "publisher": "EriKWDev",
     "displayName": "ErikWDevTheme",
     "description": "ErikWDev's syntax theme",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/ErikWDev/ErikWDevTheme"
+    },
     "engines": {
         "vscode": "^1.47.0"
     },
